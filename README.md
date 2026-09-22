@@ -4,7 +4,9 @@ SwiftUI 形狀練習作業 — 只用 SwiftUI 內建的基本形狀與 `ZStack`�
 
 ## 作品畫面
 
-![戴耳機的午後](screenshot.png)
+iPhone 17 Pro 模擬器實際執行畫面：
+
+![戴耳機的午後](simulator-screenshot.png)
 
 ## 設計說明
 
@@ -62,7 +64,9 @@ SwiftUI 形狀練習作業 — 只用 SwiftUI 內建的基本形狀與 `ZStack`�
 ```
 swiftui-self-portrait/
 ├── README.md
-├── screenshot.png            # 作品畫面
+├── simulator-screenshot.png  # 模擬器執行截圖
+├── screenshot.png            # 去掉狀態列的純畫面
+├── SelfPortrait.xcodeproj/   # Xcode 專案
 └── SelfPortrait/
     ├── ContentView.swift     # 自畫像本體
     ├── SelfPortraitApp.swift # App 進入點
