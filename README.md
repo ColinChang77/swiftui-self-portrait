@@ -1,6 +1,6 @@
 # 戴耳機的午後（Afternoon with Headphones）
 
-SwiftUI 形狀練習作業 — 只用 SwiftUI 內建的基本形狀與 `ZStack`，不使用任何圖片素材，畫出一張自畫像。
+SwiftUI 形狀練習作業 — 只用 SwiftUI 內建的基本形狀與 `ZStack`，不使用任何圖片素材，畫出一位朋友的肖像。
 
 ## 作品畫面
 
@@ -68,7 +68,7 @@ swiftui-self-portrait/
 ├── screenshot.png            # 去掉狀態列的純畫面
 ├── SelfPortrait.xcodeproj/   # Xcode 專案
 └── SelfPortrait/
-    ├── ContentView.swift     # 自畫像本體
+    ├── ContentView.swift     # 肖像本體
     ├── SelfPortraitApp.swift # App 進入點
     └── Assets.xcassets/      # 8 組 RGB 顏色
 ```
